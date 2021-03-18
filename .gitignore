@@ -1,0 +1,12 @@
+# Python package build and distribution
+/build/
+/dist/
+/src/*.egg-info/
+
+# Python virtual environment
+/venv/
+/.venv/
+/.virtualenv/
+
+# Transient data
+/.transient/
